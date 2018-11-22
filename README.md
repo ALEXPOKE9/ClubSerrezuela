@@ -1,2 +1,2 @@
 # ClubSerrezuela
-el fuck proyecto
+el proyecto
